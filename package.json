@@ -20,7 +20,7 @@
   "main": "index.js",
   "name": "api-node-express",
   "scripts": {
-    "start:mysql": "node --watch server-mysql.js"
+    "start:mysql": "nodemon server-mysql.js"
   },
   "type": "module",
   "version": "1.0.0"
